@@ -1,10 +1,4 @@
 /*  your css code here. If applicable */
-body{
-	height:100vh;
-	display:flex;
-	justify-content:center;
-	align-items:center;
-}
 
 #line{
 	width:200px;
